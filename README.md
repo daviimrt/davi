@@ -27,11 +27,4 @@ object **DAVI** {
 
 ## **Links:**  
 
-[youtube]: https://www.youtube.com/c/DavidiMRT/
-[instagram]: https://www.instagram.com/davidimrt/
-<br>
-
-<a href="https://www.instagram.com/davidimrt/"><img width="45" alt="Instagram" src="https://raw.github.com/elizarov/elizarov/master/about.png"></a>
-
-📺 [youtube][youtube]
-📷 [instagram][instagram]
+<a href="https://www.instagram.com/davidimrt/"><img height="30" width="45" alt="Instagram" src="https://raw.github.com/elizarov/elizarov/master/about.png"></a>
