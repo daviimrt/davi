@@ -27,4 +27,4 @@ object **DAVI** {
 
 ## **Links:**  
 
-<a href="https://www.instagram.com/davidimrt/"><img height="45" width="45" alt="Instagram" src="https://raw.github.com/elizarov/elizarov/master/about.png"></a>
+<a href="https://www.instagram.com/davidimrt/"><img height="30" alt="Instagram" src="https://raw.github.com/elizarov/elizarov/master/about.png"></a>
