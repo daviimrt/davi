@@ -36,7 +36,7 @@ object **DAVI** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daviimrt&show_icons=true&theme=dracula&line_height=27" alt="**Davi** github stats"/>
 </a>
 
-[youtube]: https://www.youtube.com/user/DavidiMRT/
+[youtube]: https://www.youtube.com/c/DavidiMRT/
 [instagram]: https://www.instagram.com/davidimrt/
 <br>
 
