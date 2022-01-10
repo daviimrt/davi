@@ -42,5 +42,5 @@ object **DAVI** {
 
 #### Rede Sociais!
 
-📺 [youtube][https://www.youtube.com/user/DavidiMRT/] **|** 
-📷 [instagram][https://www.instagram.com/davidimrt/] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][youtube] **|** 
