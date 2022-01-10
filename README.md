@@ -29,7 +29,5 @@ object **DAVI** {
 [instagram]: https://www.instagram.com/davidimrt/
 <br>
 
-#### Rede Sociais!
-
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+📺 [youtube][youtube]
+📷 [instagram][instagram]
