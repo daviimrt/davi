@@ -22,4 +22,4 @@ Sou desenvolvedor de <a><img width="20px" alt="JavaScript" src="https://raw.gith
 
 ## **Links:**  
 
-<a href="https://www.instagram.com/davidimrt/"><img height="30" alt="Instagram" src="https://raw.github.com/elizarov/elizarov/master/about.png"></a>
+<a href="https://www.instagram.com/davidimrt/"><img height="30" alt="Instagram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png"></a>
