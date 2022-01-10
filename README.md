@@ -8,7 +8,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 
 Olá, me chamo Davi.
-Sou desenvolvedor de <a><img width="20px" alt="Instagram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><stong>JavaScript</strong></a>, tenho 15 anos e nas horas vagas gosto de jogar 
+Sou desenvolvedor de <a><img width="20px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><strong> JavaScript</strong></a>, tenho 15 anos e nas horas vagas gosto de jogar
 
 
 ## **Linguagens e Ferramentas:**  
