@@ -43,4 +43,4 @@ object **DAVI** {
 #### Rede Sociais!
 
 📺 [youtube][youtube] **|** 
-📷 [instagram][youtube] **|** 
+📷 [instagram][instagram] **|** 
