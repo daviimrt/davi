@@ -31,7 +31,7 @@ object **DAVI** {
 [instagram]: https://www.instagram.com/davidimrt/
 <br>
 
-<code><img width="45" alt="instagram" src="https://raw.github.com/elizarov/elizarov/master/about.png">instagram</code>
+<img width="45" alt="instagram" src="https://raw.github.com/elizarov/elizarov/master/about.png">instagram
 
 📺 [youtube][youtube]
 📷 [instagram][instagram]
