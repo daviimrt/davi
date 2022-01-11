@@ -23,6 +23,6 @@ Sou desenvolvedor de <a><img width="20px" alt="JavaScript" src="https://raw.gith
 ## **Links:**  
 
 <a href="https://www.instagram.com/davidimrt/"><img height="30" alt="Instagram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png"></a>
-<a href="https://www.youtube.com/c/DavidiMRT/"><img height="30" alt="Youtube" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png"></a>
-<a href="https://twitter.com/DEVDavidi"><img height="30" alt="Twitter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png"></a>
-<a href="mrt.daviid@gmail.com"><img height="30" alt="Gmail" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/instagram/instagram.png"></a>
+<a href="https://www.youtube.com/c/DavidiMRT/"><img height="30" alt="Youtube" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/youtube/youtube.png"></a>
+<a href="https://discord.gg/bN6BfNquTe"><img height="30" alt="Discord" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></a>
+<a href="mrt.daviid@gmail.com"><img height="30" alt="Gmail" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gmail/gmail.png"></a>
