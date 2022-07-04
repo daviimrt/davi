@@ -6,7 +6,8 @@
 
 
 Olá, me chamo Davi.
-Sou desenvolvedor júnior e atuo em Full-Stack, tenho 16 anos e estou sempre buscando conhecimento.
+Sou desenvolvedor júnior e atuo em Full-Stack, tenho 16 anos e estou sempre buscando conhecimento. 
+Disposto a ajudar e desenvolver qualquer aplicação.
 
 
 ## **Linguagens e Ferramentas:**  
