@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Desenvolvedor Junior Full-Stack.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
@@ -8,7 +8,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 
 Olá, me chamo Davi.
-Sou desenvolvedor de <a><img width="20px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><strong> JavaScript</strong></a>, tenho 15 anos e nas horas vagas gosto de jogar.
+Sou desenvolvedor júnior e atuo em Full-Stack, tenho 16 anos e estou sempre buscando conhecimento.
 
 
 ## **Linguagens e Ferramentas:**  
@@ -25,4 +25,4 @@ Sou desenvolvedor de <a><img width="20px" alt="JavaScript" src="https://raw.gith
 <a href="https://www.instagram.com/davidimrt/"><img height="30" alt="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/instagram.svg"></a>
 <a href="https://www.youtube.com/c/DavidiMRT/"><img height="30" alt="Youtube" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/youtube.svg"></a>
 <a href="https://discord.gg/bN6BfNquTe"><img height="30" alt="Discord" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/discord.svg"></a>
-<a href="mrt.daviid@gmail.com"><img height="30" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/gmail.svg"></a>
+<a href="davimrtorres@hotmail.com"><img height="30" alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/gmail.svg"></a>
