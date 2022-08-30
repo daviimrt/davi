@@ -1,16 +1,14 @@
 ### Hello world! 👋
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
-Olá, me chamo Davi.
-Sou desenvolvedor júnior e atuo em Full-Stack, tenho 16 anos e estou sempre buscando conhecimento. 
-Disposto a ajudar e desenvolver qualquer aplicação.
+I'm a young man who study programming on my own, focused on back-end and I'm passionate about computing and electronics.
 
 
-## **Linguagens e Ferramentas:**  
+## <img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40"/> Skills
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
