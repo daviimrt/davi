@@ -8,7 +8,7 @@
 Hi, my name is David! I'm 16 years old and I've been programming since I was 12, I started programming as a hobby, today I study on my own and I'm interested in focusing on my future, I'm focused on back-end, however, I'm delving into front-end, I'm passionate about computing and electronics.
 
 <div id="header" align="center">
-    <h1><img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40"/> Skills</h1>
+    <h1><img align="left" src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40"/> Skills</h1>
     </div>
     <br>
     
