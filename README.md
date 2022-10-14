@@ -2,17 +2,17 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
-<img align="bottom" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="left" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
 Hi, my name is David! I'm 16 years old and I've been programming since I was 12, I started programming as a hobby, today I study on my own and I'm interested in focusing on my future, I'm focused on back-end, however, I'm delving into front-end, I'm passionate about computing and electronics.
 
-<div id="header" align="left">
+<div id="header" align="right">
     <h1><img src="https://c.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40"/> Skills</h1>
     </div>
     <br>
     
-<div id="header" align="left">
+<div id="header" align="right">
 
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
