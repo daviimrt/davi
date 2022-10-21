@@ -1,8 +1,8 @@
 ### Hello world! 👋
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
-
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
 
 Hi, my name is David! I'm 16 years old and I've been programming since I was 12, I started programming as a hobby, today I study on my own and I'm interested in focusing on my future, I'm focused on back-end, however, I'm delving into front-end, I'm passionate about computing and electronics.
