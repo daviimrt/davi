@@ -12,7 +12,7 @@ Hi, my name is David! I'm 16 years old and I've been programming since I was 12,
     </div>
     <br>
     
-<div id="header" align="right">
+<div id="header" align="center">
 
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
